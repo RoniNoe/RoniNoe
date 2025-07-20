@@ -3,6 +3,11 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Olá Mundo!</h1></summary>
 </div>
+<!-- Jogo da cobrinha-->
+<div align="center">
+
+<!--Spotify -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldygauto&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=5807bb&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldygauto&redirect=true)
 
 <!-- Presentation -->
 <p>
