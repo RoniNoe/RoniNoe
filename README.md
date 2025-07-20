@@ -43,7 +43,6 @@
 <p align="left">
   <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ViNHV4Zno4cGswZ2RyZmhpZnF0cWZhaXcyaG0xNW92OXRtMnF4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXxWO0pgGEma8W40A9/giphy.gif" alt="Imagem">
 </p>
-<div class="tenor-gif-embed" data-postid="27658603" data-share-method="host" data-aspect-ratio="1.81818" data-width="100%"><a href="https://tenor.com/view/catdows-gif-27658603">Catdows GIF</a>from <a href="https://tenor.com/search/catdows-gifs">Catdows GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
