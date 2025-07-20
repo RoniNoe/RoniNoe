@@ -30,8 +30,6 @@
 <!-- GithubStats -->
 ![RoniNoe GitHub stats](https://github-readme-stats.vercel.app/api?username=RoniNoe&show_icons=true&theme=tokyonight)
 <br>
-<!--Spotify -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldygauto&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=5807bb&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldygauto&redirect=true)
 
 <!-- Portfolio -->
 <!-- ## Portfolio:
@@ -41,11 +39,13 @@
 - [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
 - [Client Registry System](https://github.com/VariableBee/Cartorio)
 -->
----
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ViNHV4Zno4cGswZ2RyZmhpZnF0cWZhaXcyaG0xNW92OXRtMnF4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXxWO0pgGEma8W40A9/giphy.gif" alt="Imagem">
 </p>
+---
+<!--Spotify -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldygauto&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=5807bb&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldygauto&redirect=true)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
