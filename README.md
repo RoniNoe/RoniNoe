@@ -6,9 +6,6 @@
 <!-- Jogo da cobrinha-->
 <div align="center">
 
-<!--Spotify -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldygauto&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=5807bb&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldygauto&redirect=true)
-
 <!-- Presentation -->
 <p>
   Oi 👋, Eu sou o Roni! Um estudante apaixonado por Front-End e Mobile do Brasil.
@@ -17,6 +14,9 @@
 
   - 🔭 Estou procurando meu primeiro emprego em programação. Meu sonho é um dia trabalhar com desenvolvimento Front-End/Mobile.
 </p>
+
+<!--Spotify -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldygauto&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=5807bb&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldygauto&redirect=true)
 
 <!-- Dropdown -->
 <details>
