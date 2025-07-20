@@ -32,6 +32,7 @@
 <br>
 
 <!-- Portfolio -->
+<!-- Deixar onde está, apenas editar com o diretorio do repositorio do github e descomentar-->
 <!-- ## Portfolio:
  - [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
 - [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
