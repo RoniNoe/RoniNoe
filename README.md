@@ -3,8 +3,6 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Olá Mundo!</h1></summary>
 </div>
-<!-- Jogo da cobrinha-->
-<div align="center">
 
 <!-- Presentation -->
 <p>
@@ -14,9 +12,6 @@
 
   - 🔭 Estou procurando meu primeiro emprego em programação. Meu sonho é um dia trabalhar com desenvolvimento Front-End/Mobile.
 </p>
-
-<!--Spotify -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldygauto&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=5807bb&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldygauto&redirect=true)
 
 <!-- Dropdown -->
 <details>
@@ -34,16 +29,19 @@
 
 <!-- GithubStats -->
 ![RoniNoe GitHub stats](https://github-readme-stats.vercel.app/api?username=RoniNoe&show_icons=true&theme=tokyonight)
+<br>
+<!--Spotify -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldygauto&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=5807bb&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldygauto&redirect=true)
 
 <!-- Portfolio -->
-## Portfolio:
-<!-- - [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
+<!-- ## Portfolio:
+ - [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
 - [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
 - [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
 - [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
 - [Client Registry System](https://github.com/VariableBee/Cartorio)
 -->
-
+---
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ViNHV4Zno4cGswZ2RyZmhpZnF0cWZhaXcyaG0xNW92OXRtMnF4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXxWO0pgGEma8W40A9/giphy.gif" alt="Imagem">
