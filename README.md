@@ -52,17 +52,17 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="React" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBh3S-A1AHsVl0D3dFLN2x-zH3ymp5zWQuA&s">
-    <img align="center" alt="Cordova" height="30" width="40" src="https://www.svgrepo.com/show/305716/apache-cordova.svg">
+    <img align="center" alt="Cordova" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Cordova_logo_newbrand.svg/1200px-Cordova_logo_newbrand.svg.png">
   </div>
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Ferramentas & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img align="center" alt="Xcode" height="30" width="40" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
-    <img align="center" alt="CMD" height="30" width="40" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
-    <img align="center" alt="Chrome" height="30" width="40" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
-    <img align="center" alt="Safari" height="30" width="40" src="	https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white">
+    <img align="center" alt="VScode" height="30" width="40" src="	https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519">
+    <img align="center" alt="Xcode" height="30" width="40" src="https://w7.pngwing.com/pngs/505/718/png-transparent-xcode-macos-bigsur-icon-thumbnail.png">
+    <img align="center" alt="CMD" height="30" width="40" src="https://freesvg.org/img/1535789485.png">
+    <img align="center" alt="Chrome" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/2048px-Google_Chrome_icon_%28February_2022%29.svg.png">
+    <img align="center" alt="Safari" height="30" width="40" src="	https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Safari_browser_logo.svg/2057px-Safari_browser_logo.svg.png">
   </div>
   
   <!-- Skills: Libraries 
