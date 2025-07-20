@@ -51,8 +51,8 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/react-original.svg">
-    <img align="center" alt="Cordova" height="30" width="40" src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8">
+    <img align="center" alt="React" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBh3S-A1AHsVl0D3dFLN2x-zH3ymp5zWQuA&s">
+    <img align="center" alt="Cordova" height="30" width="40" src="https://www.svgrepo.com/show/305716/apache-cordova.svg">
   </div>
   
   <!-- Skills: Tools & Frameworks -->
