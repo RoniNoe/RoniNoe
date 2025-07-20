@@ -53,7 +53,7 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Linguagens de Programação</h3>
-    <p align="center">
+    <p align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,html,css,react,"/>
       </a>
@@ -63,7 +63,7 @@
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Ferramentas & Frameworks</h3>
-        <p align="center">
+        <p align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode,figma,docker,git,notion,wordpress"/>
       </a>
